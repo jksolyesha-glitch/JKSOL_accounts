@@ -1,4 +1,4 @@
-# Dashboard Monorepo Guide
+# Jksol Accounts
 
 This workspace contains two apps:
 
